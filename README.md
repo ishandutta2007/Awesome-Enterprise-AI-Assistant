@@ -68,7 +68,7 @@ Welcome to the comprehensive directory of **enterprise AI assistants**, **open-s
 ## 🔓 Open-Source GitHub Projects 💻
 
 > [!TIP]
-> Below are top self-hosted open-source workplace AI projects sorted in **descending order by GitHub Stars_Count**. Click the Stars_Badge to view stargazers.
+> Below are top self-hosted open-source workplace AI projects sorted in **descending order by GitHub_Stars_Count**. Click the Stars_Badge to view stargazers.
 
 - **[Open WebUI](https://github.com/open-webui/open-webui)** [![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers) 🌟  
   **Self-hosted ChatGPT-style UI**, MIT licensed. **124K+ GitHub_Stars** — **the de-facto self-hosted AI chat platform** . **Runs entirely offline** with **Ollama, OpenAI-compatible APIs, MCP servers, and RAG with 9+ vector databases** . **Multi-user RBAC, LDAP/SSO, and audit-friendly architecture** . **The most deployed self-hosted AI chat platform** . 🔒 💻
